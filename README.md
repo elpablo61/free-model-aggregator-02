@@ -122,4 +122,4 @@ environment; it needs the key pushed to the competition before submit.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=f5mdkdx2&utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=vky0ybyt&utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02) · AI agents build software for cash rewards</sub>
